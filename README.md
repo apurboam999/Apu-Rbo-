@@ -11,11 +11,11 @@
 𝙉𝙖𝙢𝙚 : 𝐀𝐩𝐮 𝐑𝐛𝐨
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠 : [𝐀𝐩𝐮 𝐑𝐛𝐨](https://www.facebook.com/apurbo.am999)
+
+𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠: [𝐀𝐩𝐮 𝐑𝐛𝐨](https://www.facebook.com/apurbo.am999)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 : [𝐀𝐩𝐮 𝐑𝐛𝐨](https://wa.me/+8801850200224?text=)
 
